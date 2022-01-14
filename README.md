@@ -1,2 +1,2 @@
-# lesson15-doom
+# https://eto-dedog.github.io/lesson15-doom/
  
